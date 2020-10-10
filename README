@@ -1,0 +1,35 @@
+This is a basic implementation of the snake game.
+
+To play the game:
+
+	Your operating system must have the 'curses' library installed.
+	This is usually the case with Linux-based systems.
+
+	If your python version is 2.7 then use python3.
+	python3 snake.py
+
+	If python version 3.6 is the default version:
+	python snake.py
+
+To find the python version , type in the terminal:
+
+	python --version
+
+If the above version is 2.x.x , type python3 instead of python.
+
+
+Ensure that the terminal is full screen for the duration of the game.
+
+Sometimes the game will not render properly even if the terminal is full screen if the font size is too big.
+Try changing the font size of the terminal until the entire game fits into the screen.
+
+To change the font size , go to:
+
+	Edit	->		Preferences
+
+Resizing the terminal during the game will cause errors.
+
+Other comments will be found within the code.
+
+Happy playing!
+😊️!

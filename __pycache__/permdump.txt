@@ -1,0 +1,5 @@
+total 16
+drwxr-xr-x 2 abhisheks abhisheks 4096 Sep  8 22:16 .
+drwxr-xr-x 4 abhisheks abhisheks 4096 Sep  8 22:16 ..
+-rwxrwxrwx 1 abhisheks abhisheks 4655 Aug 25 09:42 curse_help.cpython-36.pyc
+-rw-r--r-- 1 abhisheks abhisheks    0 Oct  9 15:11 permdump.txt

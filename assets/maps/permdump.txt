@@ -1,0 +1,8 @@
+total 24
+drwxr-xr-x 2 abhisheks abhisheks 4096 Sep  8 22:16 .
+drwxr-xr-x 3 abhisheks abhisheks 4096 Sep  8 22:16 ..
+-rw-rw-r-- 1 abhisheks abhisheks 3163 Aug 25 09:42 box.txt
+-rw-rw-r-- 1 abhisheks abhisheks 1627 Aug 25 09:42 garden.txt
+-rw-rw-r-- 1 abhisheks abhisheks   30 Aug 25 09:42 none.txt
+-rw-r--r-- 1 abhisheks abhisheks    0 Oct  9 15:11 permdump.txt
+-rw-rw-r-- 1 abhisheks abhisheks 4006 Aug 25 09:42 piano.txt
