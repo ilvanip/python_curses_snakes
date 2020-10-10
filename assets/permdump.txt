@@ -1,5 +1,0 @@
-total 12
-drwxr-xr-x 3 abhisheks abhisheks 4096 Sep  8 22:16 .
-drwxr-xr-x 4 abhisheks abhisheks 4096 Sep  8 22:16 ..
-drwxr-xr-x 2 abhisheks abhisheks 4096 Sep  8 22:16 maps
--rw-r--r-- 1 abhisheks abhisheks    0 Oct  9 15:11 permdump.txt
