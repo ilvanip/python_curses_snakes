@@ -17,7 +17,6 @@ To find the python version , type in the terminal:
 
 If the above version is 2.x.x , type python3 instead of python.
 
-
 Ensure that the terminal is full screen for the duration of the game.
 
 Sometimes the game will not render properly even if the terminal is full screen if the font size is too big.
@@ -31,5 +30,14 @@ Resizing the terminal during the game will cause errors.
 
 Other comments will be found within the code.
 
+Use the left arrow key to select an option.
+Use the right arrow key to navigate to the previous option list.
+Use the up/down arrow keys to navigate within a list.
+Use the up/down/left/right arrow keys to control the snake.
+
+For making new maps:
+To add a new map, follow the instructions given in the comments in the Game class.
+
 Happy playing!
 😊️!
+
