@@ -1,9 +1,0 @@
-total 40
-drwxr-xr-x  4 abhisheks abhisheks  4096 Sep  8 22:16 .
-drwxr-xr-x 14 abhisheks abhisheks  4096 Sep 16 16:54 ..
-drwxr-xr-x  3 abhisheks abhisheks  4096 Sep  8 22:16 assets
--rw-rw-r--  1 abhisheks abhisheks  7045 Aug 25 09:42 curse_help.py
--rw-r--r--  1 abhisheks abhisheks     0 Oct  9 15:11 permdump.txt
-drwxr-xr-x  2 abhisheks abhisheks  4096 Sep  8 22:16 __pycache__
--rw-rw-r--  1 abhisheks abhisheks   912 Aug 25 09:42 README
--rw-rw-r--  1 abhisheks abhisheks 10137 Aug 25 09:42 snake.py
